@@ -28,7 +28,7 @@ load all items in a list and generate a map of it grouped by item so, for exampl
 
 is mapped to: `basketContents={Lime=4, Apple=2, Melon=3, Banana=1}`
 
-then com.cmarina.shopping.ShoppingBasket.computePrice() will do the rest.
+then [com.cmarina.shopping.ShoppingBasket.computePrice()](https://github.com/calinmarina/shopping-basket/blob/master/src/main/java/com/cmarina/shopping/ShoppingBasket.java#L61) will do the rest.
 
 # Running:
 ``` bash
