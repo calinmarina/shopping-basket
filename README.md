@@ -1,5 +1,5 @@
 
-# Excercise:
+# Exercise:
 Using Java, write a simple program that calculates the price of a basket of shopping.
 Items are presented one at a time, in a list, identified by name - for example "Apple" or "Banana".
 
